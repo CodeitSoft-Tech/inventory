@@ -8,3 +8,5 @@ TODO
 test.html
 *.log
 test.html
+vendor/
+.env
